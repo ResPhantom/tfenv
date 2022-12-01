@@ -1,4 +1,4 @@
-![CI](https://github.com/tfutils/tfenv/workflows/CI/badge.svg)
+![CI](https://github.com/resphantom/tfenv/workflows/CI/badge.svg)
 
 # tfenv
 
@@ -45,7 +45,7 @@ include ::tfenv
 1. Check out tfenv into any path (here is `${HOME}/.tfenv`)
 
 ```console
-$ git clone --depth=1 https://github.com/tfutils/tfenv.git ~/.tfenv
+$ git clone --depth=1 https://github.com/resphantom/tfenv.git ~/.tfenv
 ```
 
 2. Add `~/.tfenv/bin` to your `$PATH` any way you like
@@ -500,6 +500,6 @@ $ rm -rf /some/path/to/tfenv
 
 ## LICENSE
 
-- [tfenv itself](https://github.com/tfutils/tfenv/blob/master/LICENSE)
+- [tfenv itself](https://github.com/resphantom/tfenv/blob/master/LICENSE)
 - [rbenv](https://github.com/rbenv/rbenv/blob/master/LICENSE)
   - tfenv partially uses rbenv's source code
